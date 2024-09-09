@@ -1,0 +1,58 @@
+[
+    {
+        "id": "aege",
+        "name": "Aegean",
+        "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+        "origin": "Greece",
+        "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+        "life_span": "9-12",
+        "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+        "id": "abys",
+        "name": "Abyssinian",
+        "temperament": "Active, Energetic, Independent, Intelligent, Gentle",
+        "origin": "Egypt",
+        "description": "The Abyssinian is easy to care for, and a joy to have in your home. This breed is known for its playful and energetic nature, often described as 'busy.' Abyssinians love to explore and are highly interactive with humans.",
+        "life_span": "14-15",
+        "url": "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
+    },
+    {
+        "id": "beng",
+        "name": "Bengal",
+        "temperament": "Alert, Agile, Energetic, Demanding, Intelligent",
+        "origin": "United States",
+        "description": "The Bengal is a wild-looking cat with large spots and rosettes, a light or white belly, and a body structure reminiscent of the Asian Leopard Cat. Bengals are very energetic and enjoy climbing, playing, and interacting with their human companions.",
+        "life_span": "12-16",
+        "url": "https://cdn2.thecatapi.com/images/O3btzLlsO.jpg"
+    },
+    {
+        "id": "chart",
+        "name": "Chartreux",
+        "temperament": "Affectionate, Loyal, Playful, Quiet",
+        "origin": "France",
+        "description": "The Chartreux is a rare breed from France, known for its robust build, woolly coat, and smiling expression. It is often quiet but extremely affectionate and loyal to its family. The breed enjoys play but tends to be calm and well-behaved indoors.",
+        "life_span": "12-15",
+        "url": "https://cdn2.thecatapi.com/images/j6oFGLpRG.jpg"
+    },
+    {
+        "id": "sphy",
+        "name": "Sphynx",
+        "temperament": "Affectionate, Energetic, Playful, Intelligent, Social",
+        "origin": "Canada",
+        "description": "The Sphynx is a hairless cat breed that is known for its affectionate and social nature. Despite their appearance, they are warm to the touch and enjoy cuddling with humans to stay warm. They are intelligent, playful, and get along well with other pets.",
+        "life_span": "8-14",
+        "url": "https://cdn2.thecatapi.com/images/BoVltKFzv.jpg"
+    },
+    {
+        "id": "pers",
+        "name": "Persian",
+        "temperament": "Affectionate, Loyal, Quiet, Sweet",
+        "origin": "Iran (Persia)",
+        "description": "The Persian is known for its luxurious coat, round face, and calm temperament. This breed tends to be a very laid-back companion, preferring a quiet home environment. They enjoy gentle play and are very affectionate to their family members.",
+        "life_span": "10-17",
+        "url": "https://cdn2.thecatapi.com/images/k71ULYfRr.jpg"
+    }
+]
+
+    
